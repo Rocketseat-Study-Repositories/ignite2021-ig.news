@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@prismicio/client": "^5.1.0",
     "@stripe/stripe-js": "^1.15.0",
     "@types/stripe": "^8.0.417",
     "axios": "^0.21.1",
